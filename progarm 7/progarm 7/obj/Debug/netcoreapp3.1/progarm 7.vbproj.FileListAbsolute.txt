@@ -1,0 +1,13 @@
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.exe
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.deps.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.runtimeconfig.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.runtimeconfig.dev.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\bin\Debug\netcoreapp3.1\progarm 7.pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.AssemblyInfoInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.AssemblyInfo.vb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.vbproj.CoreCompileInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\progarm 7\progarm 7\obj\Debug\netcoreapp3.1\progarm 7.genruntimeconfig.cache

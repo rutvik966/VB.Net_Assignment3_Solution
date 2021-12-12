@@ -1,0 +1,13 @@
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.exe
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.deps.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.runtimeconfig.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.runtimeconfig.dev.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\bin\Debug\netcoreapp3.1\program 4.pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.AssemblyInfoInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.AssemblyInfo.vb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.vbproj.CoreCompileInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 3\program 4\program 4\obj\Debug\netcoreapp3.1\program 4.genruntimeconfig.cache
